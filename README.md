@@ -11,6 +11,8 @@ It includes:
 
 This exercise shows how to control text-mode graphics by manipulating characters and attributes in video memory.
 
+![Colorful Shapes](shapes.png)
+
 ## 2. ID Addition with Colors (`printid.asm`)
 This program prints two student IDs on the screen, digit by digit, and then computes their **digit-wise sum** (like column addition).  
 Each digit of the result is printed in a different color, using a predefined color table.
@@ -20,6 +22,8 @@ Each digit of the result is printed in a different color, using a predefined col
 - Loop-based iteration over digits.  
 - Handling of **carry** when digit sums exceed 9.  
 - Simple **visualization of arithmetic** with colors.
+
+![ID Sum](id_sum.png)
 
 ---
 
