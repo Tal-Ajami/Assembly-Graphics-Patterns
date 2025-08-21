@@ -1,4 +1,4 @@
-; Tal Ajami 211721857 & Omer Segal 3187776424
+; Tal Ajami 
 
 .model small
 .stack 100h
@@ -148,4 +148,5 @@ START:
     ;return to OS
     mov ax, 4c00h
     int 21h
+
  End START
